@@ -41,4 +41,4 @@ To set up the project environment:
 3. Install the required libraries using the following command:
 
 ```bash
-pip install pandas matplotlib seaborn scikit-learn jupyter
+pip install pandas matplotlib seaborn plotly scikit-learn jupyter
